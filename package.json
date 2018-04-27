@@ -1,0 +1,38 @@
+{
+  "name": "vocab",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.11.1",
+    "jest-expo": "25.0.0",
+    "react-test-renderer": "16.2.0"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^25.0.0",
+    "native-base": "^2.4.2",
+    "prop-types": "^15.6.1",
+    "react": "16.2.0",
+    "react-native": "0.52.0",
+    "react-native-flip-card": "^3.5.2",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-snap-carousel": "^3.7.0",
+    "react-navigation": "^1.5.11",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-persist": "^5.9.1",
+    "redux-thunk": "^2.2.0",
+    "rxjs": "^5.5.8",
+    "shortid": "^2.2.8"
+  }
+}
