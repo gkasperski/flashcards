@@ -26,13 +26,13 @@ You have to follow the following guideline: https://facebook.github.io/react-nat
 ### Screenshots ###
 All screenshots are also placed in screenshots folder
 
-![Scheme](screenshots/login.png =540x960)
-![Scheme](screenshots/register.png =540x960)
-![Scheme](screenshots/homemenu.png =540x960)
-![Scheme](screenshots/latestactivity.png =540x960)
-![Scheme](screenshots/folders.png =540x960)
-![Scheme](screenshots/createset.png =540x960)
-![Scheme](screenshots/setmenu.png =540x960)
-![Scheme](screenshots/setedit.png =540x960)
-![Scheme](screenshots/flashcards.png =540x960)
-![Scheme](screenshots/flashcardsb.png =540x960)
+![Scheme](screenshots/login.png)
+![Scheme](screenshots/register.png)
+![Scheme](screenshots/homemenu.png)
+![Scheme](screenshots/latestactivity.png)
+![Scheme](screenshots/folders.png)
+![Scheme](screenshots/createset.png)
+![Scheme](screenshots/setmenu.png)
+![Scheme](screenshots/setedit.png)
+![Scheme](screenshots/flashcards.png)
+![Scheme](screenshots/flashcardsb.png)
